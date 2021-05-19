@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 100vh;
+    width: 100%;
+    background-image: url(../assets/imgs/bg2.jpg);
+    background-position: 50% 50%;
+}
+
+.goat-div {
+    padding-top: 7rem;
+}
+
+/* Text Font Shit */
+.p-text {
+    font-family: 'Questrial', sans-serif;
+    font-size: 1rem;
+    color: white;
+
+}
+
+.p-title {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2.2rem;
+    color: white;
+
+}
+
+.p-subtitle {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2rem;
+    color: white;
+
+}
+
+.p-big-title {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2.6rem;
+    color: white;
+
+}
+
